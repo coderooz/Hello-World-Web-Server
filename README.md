@@ -18,7 +18,7 @@ You need to have Node.js and npm installed on your local machine.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/coderooz/hello-world-web-server.git
+   git clone https://github.com/coderooz/Hello-World-Web-Server.git
    cd hello-world-web-server
    ```
 
